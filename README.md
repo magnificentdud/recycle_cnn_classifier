@@ -9,15 +9,15 @@
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen" />
 </p>
 
-🌈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌈
+💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━💡
 
-# 🌈✨ Recycle Classification using CNNs & Transfer Learning
+# 💡✨ Recycle Classification using CNNs & Transfer Learning
 
 A vibrant, end‑to‑end machine learning project for classifying recyclable materials into **10 categories** using **Convolutional Neural Networks** and **MobileNetV2 transfer learning**.
 
-🌈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌈
+💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━💡
 
-## 🌈📘 Overview
+## 💡📘 Overview
 
 This project builds an image‑classification model that identifies different types of recyclable waste.  
 It uses:
@@ -30,9 +30,9 @@ It uses:
 
 The goal is to create a **clean, modular, portfolio‑ready ML project** with reproducible code and a professional structure.
 
-🌈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌈
+💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━💡
 
-## 🌈📦 Dataset
+## 💡📦 Dataset
 
 The dataset contains **10 classes**, each with ~1000 images:
 
@@ -53,9 +53,9 @@ Split into:
 - **Validation:** ~100 images/class  
 - **Test:** ~100 images/class  
 
-🌈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌈
+💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━💡
 
-## 🌈🧠 Model Architecture
+## 💡🧠 Model Architecture
 
 This project uses **MobileNetV2** with:
 
@@ -70,9 +70,9 @@ This approach provides:
 - 🎯 Higher accuracy  
 - 🧩 Better generalization  
 
-🌈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌈
+💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━💡
 
-## 🌈📁 Project Structure
+## 💡📁 Project Structure
 
 recycle-cnn-classification/
 ├─ src/
@@ -86,11 +86,9 @@ recycle-cnn-classification/
 ├─ data/                  # (empty placeholder)
 └─ README.md
 
-Code
+💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━💡
 
-🌈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌈
-
-## 🌈🚀 How to Run the Code
+## 💡🚀 How to Run the Code
 
 ### 1. Install dependencies
 pip install tensorflow matplotlib seaborn scikit-learn
@@ -107,9 +105,9 @@ python src/train.py
 ### 4. Evaluate
 python src/eval.py
 
-🌈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌈
+💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━💡
 
-## 🌈📊 Results (from original paper)
+## 💡📊 Results (from original paper)
 
 *(Replace these with your actual numbers)*
 
@@ -118,33 +116,33 @@ python src/eval.py
 - **Confusion Matrix:** Strong performance across all 10 classes  
 - **Observations:** Transfer learning significantly outperformed custom CNN  
 
-🌈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌈
+💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━💡
 
-## 🌈🎯 Key Features
+## 💡🎯 Key Features
 
-- 🌈 Clean, modular code  
+- 💡 Clean, modular code  
 - 🧠 Transfer learning for high accuracy  
 - 🧪 Reproducible training pipeline  
 - 📊 Built‑in evaluation tools  
 - 📁 Professional project structure  
 - 🧵 Ready for GitHub & portfolio use  
 
-🌈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌈
+💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━💡
 
-## 🌈💡 Future Improvements
+## 💡💡 Future Improvements
 
 - Add Grad‑CAM visualizations  
 - Deploy as a web app  
 - Add ONNX export  
 - Improve dataset augmentation  
 
-🌈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌈
+💡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━💡
 
-## 🌈👤 Author
+## 💡👤 Author
 
-**Woochan Jung**  
+**Woochan**  
 Machine Learning & Computer Vision Enthusiast  
 
 <p align="center">
-  🌈 Made with passion, Python, and a lot of colors 🌈
+  💡 Made with passion, Python, and bright ideas 💡
 </p>
